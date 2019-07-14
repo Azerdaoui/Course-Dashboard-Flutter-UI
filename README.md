@@ -1,4 +1,4 @@
-# course_dashboard_ui
+# Courses Dashboard - Flutter ui
 
 A new Flutter project.
 
